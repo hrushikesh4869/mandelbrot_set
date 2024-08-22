@@ -12,7 +12,7 @@ Default number of iterations is 50. Number of iterations can also be passed as c
 ## Running the program
 
 ``` bash
-./mandelbrot \#no_of_iterations
+./mandelbrot #no_of_iterations
 ```
 
 ## Screenshot
